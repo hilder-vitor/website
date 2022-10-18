@@ -585,8 +585,7 @@ Please keep the list in alphabetical order by last name!
  github="robertwb"/>
 <contributor
  name="Simon Brandhorst"
- trac="sbrandhorst"
- github="simonbrandhorst"/>
+ trac="sbrandhorst"/>
 <contributor
  name="Maria Bras-Amoros"/>
 <contributor
@@ -3974,6 +3973,9 @@ Please keep the list in alphabetical order by last name!
  trac="MartinPepin"/>
 <contributor
  name="Hilder Vitor Lima Pereira"
+ work="Postdoctoral researcher, COSIC, KU Leuven"
+ url="https://hilder-vitor.github.io/"
+ github="hilder-vitor"
  trac="hilder.vitor"/>
 <contributor
  name="David Perkinson"
